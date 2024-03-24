@@ -18,3 +18,5 @@ Meanwhile, all layers in the pre-trained ResNet50 model are set to non-trainable
 After Compiling and Training the model, the Evaluatino came to be: Test Loss: 1.59 and Test Accuracy: 0.69 .
 
 And by testing the model on random photos from the internet, it seems to be working just fine.
+
+Here is a short video demonstrating my code : https://drive.google.com/file/d/1BwKfDvp1rokw7Q94qIh98WCoJzCAq19m/view?usp=sharing
